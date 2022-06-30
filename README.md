@@ -1,2 +1,2 @@
 # Desafio-do-git-github-primeiro-repositorio-Dio
-Desaio-de-Projeto (Dio)
+Desafio-de-projeto (primeiro da DIO)
